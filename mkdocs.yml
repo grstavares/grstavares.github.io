@@ -1,0 +1,11 @@
+site_name: Gustavo Tavares
+site_description: Personal Profile
+site_author: Gustavo Tavares
+site_url: https://www.tavares.cloud
+theme: readthedocs
+nav:
+  - "index.md"
+  - "about.md"
+  - "articles.md"
+  - "projects.md"
+  - "social.md"
